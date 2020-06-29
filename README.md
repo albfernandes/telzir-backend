@@ -1,6 +1,7 @@
 # Adonis API application
 
 ## Setup, follow these commands to correctly run the app
+### Create a .env file at root and copy the .env.example content to it
 
 Install adonis CLI
 
